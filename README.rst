@@ -23,6 +23,12 @@ GitHub_ page. Full information about Covasim is provided in the Covasim document
    :local:
    :depth: 2
 
+Modification
+======
+1) Microbiota parameters, that increase probability to be severe
+2) Cumulative formula of infection
+3) New plots and design in web-version
+4) Multicities module
 
 Requirements
 ============
