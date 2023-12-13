@@ -36,7 +36,7 @@ Quick start guide
 
 .. code-block:: shell
 
-    git clone https://github.com/InstituteforDiseaseModeling/covasim_webapp
+    git clone https://github.com/Demid5/covasim_microbiota/tree/main
 
 2.  Navigate to the root of the repository and install the Covasim Webapp Python package:
 
